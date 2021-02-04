@@ -26,9 +26,7 @@ var interpret = function(command) {
                     i += 3
                     break;
                 }
-
         }
     }
     return output
-
 };
